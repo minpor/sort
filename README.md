@@ -4,4 +4,4 @@ This is project which implements algorithm for arrays sort
 2. Insertion sort
 3. Shell sort
 
-To Run example run Sort class
+Run class for examples
