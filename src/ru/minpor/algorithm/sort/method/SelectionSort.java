@@ -1,7 +1,7 @@
 package ru.minpor.algorithm.sort.method;
 
-import ru.minpor.algorithm.sort.Compare;
-import ru.minpor.algorithm.sort.SortImpl;
+import ru.minpor.algorithm.sort.compare.Compare;
+import ru.minpor.algorithm.sort.impl.SortImpl;
 
 public class SelectionSort extends Compare implements SortImpl {
 	@Override
