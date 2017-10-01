@@ -2,7 +2,7 @@ package ru.minpor.algorithm.sort.method;
 
 import ru.minpor.algorithm.sort.Compare;
 
-public class Insert extends Compare {
+public class InsertionSort extends Compare {
 	@Override
 	public Comparable[] sort(Comparable[] a) {
 		int N = a.length;

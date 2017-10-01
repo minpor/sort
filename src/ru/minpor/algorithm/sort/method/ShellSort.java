@@ -2,7 +2,7 @@ package ru.minpor.algorithm.sort.method;
 
 import ru.minpor.algorithm.sort.Compare;
 
-public class Shell extends Compare {
+public class ShellSort extends Compare {
 	@Override
 	public Comparable[] sort(Comparable[] a) {
 		int N = a.length;
